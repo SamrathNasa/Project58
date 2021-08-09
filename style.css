@@ -1,0 +1,16 @@
+#img{
+    border-radius: 100px;
+    width:210;
+}
+body{
+    text-align: center;
+    background: linear-gradient(#42e3cd 0%,#137e87 100%);
+    background-repeat: no-repeat;
+}
+div{   
+font-size: 25;    
+color:darkblue; 
+}
+    h1{
+        color:aliceblue;
+    }
